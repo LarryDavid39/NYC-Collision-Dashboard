@@ -5,6 +5,10 @@
 
 This data analysis project aims to provide insights into the collision of New York city over the past three years. By analyzing various aspect of the accident data, we seek to identify trends, make data-driven recommendation, and get deeper understanding of the city's activities.
 
+[NYC Collision Dashboard.pdf](https://github.com/user-attachments/files/20643000/NYC.Collision.Dashboard.pdf)
+
+[NYC Collision Dashboard2.pdf](https://github.com/user-attachments/files/20643002/NYC.Collision.Dashboard2.pdf)
+
 ### Data Sources
 
 The Primary dataset used for this analysis is the "nyc-collision-data.csv" file
