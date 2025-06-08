@@ -9,6 +9,10 @@ This data analysis project aims to provide insights into the collision of New Yo
 
 [NYC Collision Dashboard2.pdf](https://github.com/user-attachments/files/20643002/NYC.Collision.Dashboard2.pdf)
 
+![Screenshot (11)](https://github.com/user-attachments/assets/f719f6f6-a8d4-46e0-a4ea-b549a2739a5c)
+![Screenshot (10)](https://github.com/user-attachments/assets/766a3356-e5d4-46e8-a558-ab621d0af83d)
+
+
 ### Data Sources
 
 The Primary dataset used for this analysis is the "nyc-collision-data.csv" file
